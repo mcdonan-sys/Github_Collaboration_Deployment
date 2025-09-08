@@ -1,4 +1,5 @@
 # TechFlow Solutions Website
+[![Deploy to GitHub Pages](https://github.com/mcdonan-sys/Github_Collaboration_Deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/mcdonan-sys/Github_Collaboration_Deployment/actions/workflows/deploy.yml)
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
