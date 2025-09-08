@@ -31,7 +31,7 @@ techflow-website/
 - GitHub Actions for CI/CD
 
 ## Getting Started
-
+This is a test for step 7.
 ### Prerequisites
 - Git installed on your local machine
 - A modern web browser
